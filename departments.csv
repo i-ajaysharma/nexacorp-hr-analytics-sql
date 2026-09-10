@@ -1,0 +1,9 @@
+department_id,department_name,location,budget
+DEPT01,Engineering,Bengaluru,45000000
+DEPT02,Sales,Mumbai,30000000
+DEPT03,Marketing,Delhi,18000000
+DEPT04,Human Resources,Delhi,9000000
+DEPT05,Finance,Mumbai,15000000
+DEPT06,Customer Support,Pune,12000000
+DEPT07,Product,Bengaluru,20000000
+DEPT08,Operations,Hyderabad,14000000
