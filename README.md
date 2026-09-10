@@ -95,5 +95,5 @@ employees.manager_id → employees.employee_id  (self-referencing hierarchy)
 ---
 
 ## 👤 Author
-**[Your Name]**
-📧 [your.email@example.com] | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-link/) | 💻 [GitHub Profile](https://github.com/your-username)
+**[Ajay Sharma]**
+📧 [dajaysharma99@gmail.com] | 🔗 [LinkedIn Profile]([https://www.linkedin.com/in/ajjuxy/) | 💻 [GitHub Profile](https://github.com/i-ajaysharma)
