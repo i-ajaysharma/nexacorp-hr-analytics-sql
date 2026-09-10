@@ -96,4 +96,4 @@ employees.manager_id → employees.employee_id  (self-referencing hierarchy)
 
 ## 👤 Author
 **[Ajay Sharma]**
-📧 [dajaysharma99@gmail.com] | 🔗 [LinkedIn Profile]([https://www.linkedin.com/in/ajjuxy/) | 💻 [GitHub Profile](https://github.com/i-ajaysharma)
+📧 [dajaysharma99@gmail.com] | 🔗 [LinkedIn Profile] [https://www.linkedin.com/in/ajjuxy/] | 💻 [GitHub Profile](https://github.com/i-ajaysharma)
